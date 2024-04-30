@@ -1,7 +1,7 @@
 # frontend-challenges
 
 ### Guru task
-Invoice app, product feedback-app, link-sharing-app, kanban-task-management-web-app
+designo-multi-page-website, Invoice app, product feedback-app, link-sharing-app, kanban-task-management-web-app
 
 ### Using the Figma design file
 
